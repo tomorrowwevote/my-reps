@@ -23,7 +23,7 @@ var social_link_lookup = {
     'YouTube': 'https://www.youtube.com/user/',
     'Facebook': 'https://www.facebook.com/',
     'Twitter': 'https://twitter.com/',
-    'GooglePlus': 'https://plus.google.com/'
+// 'GooglePlus': 'https://plus.google.com/'
 };
 
 var selected_state = '';
